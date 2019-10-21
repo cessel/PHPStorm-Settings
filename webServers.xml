@@ -1,0 +1,635 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="77ceff15-addc-4a5b-88ff-e2e11249a894" name="Main Cessel" url="https://zerkalamua.ru">
+        <fileTransfer host="cessel.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2ea8ea19-22a9-4e63-9cc9-e00858c8fb95" name="china-imto" url="http://china.imto.ces">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="58dbb46e-97e5-4924-940d-723fce822747" name="Theair" url="http://theair.ru">
+        <fileTransfer host="cesselys.beget.tech" port="21" rootFolder="/cesselys.bget.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="dc9e001b-785a-4b43-a9d0-4cebe383941b" name="Stonefactory" url="http://stonefactory.ru/">
+        <fileTransfer host="annetsg9.beget.tech" port="21" rootFolder="/stonefactory.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="da758ba9-15f4-45f1-8f51-edde41cc7a12" name="aquamair-nk.ces" url="http://aquamair-nk.ces/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b98a6420-ec6b-485b-af64-659388231e39" name="cessel-zerkala.ces" url="http://cessel-zerkala.ces">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="aa9d8c80-0c8b-406d-a5bf-86a10ba21271" name="imto ftp1" url="http://imto.ru">
+        <fileTransfer host="home.imto.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2cc9c0e0-d024-40c0-8a5f-139a09b4ecdd" name="Forum Zvezdnaya" url="http://ezvezdnaya.ru/">
+        <fileTransfer host="31.177.95.154" port="21" rootFolder="/home/paola-tur/ezvezdnaya.ru/docs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a203d244-015b-4f92-a7a2-1a7ed7035db2" name="testwork" url="http://testwork.ces">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="a596093a-1e2b-4ff1-abf4-ab56991b711b" name="[MSK] Сайт Родин" url="http://rusartschool.ru">
+        <fileTransfer host="bane.beget.com" port="21" rootFolder="/izostudiya/public_html">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" forceListCommand="true" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7b1cc1d0-3c86-4df8-8e55-8438fa120f99" name="[FREEL] Сайт доработка темы" url="http://favoritnr1.com">
+        <fileTransfer host="93.158.223.10" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4f33d309-b99b-47a8-b02e-2bc1ff751f2a" name="[YOUDO] Сайт 6 сайтов" url="http://find.ivan4eqy.beget.tech">
+        <fileTransfer host="ivan4eqy.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ded01004-b378-4072-98be-d2a0d04e65bc" name="[FREEL] Сайт доработка MODx" url="http://info.kivaso.ru">
+        <fileTransfer host="ftp.kivaso.ru" port="21" rootFolder="/info">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ccb408dd-15e9-4b0a-9753-a2765ab5ab17" name="site.modx.ces" url="http://site.modx.ces">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="84fac2b9-e492-4e4c-ad75-d270c9111e98" name="[FREEL] Сайт лендинг Фартуки" url="http://fartuk.landing.ces">
+        <fileTransfer host="cessel.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a85fb4ef-b65f-4b83-9a4f-874c000b6a13" name="[FREES_SITE] Сайт электромонтаж" url="http://valeri4v.beget.tech">
+        <fileTransfer host="valeri4v.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="360b0a00-8eac-4fed-8778-dbc9f9423003" name="[KRD] Сайт Миша  покрышки" url="http://nimblecar.ces">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="db6e0ee6-de74-4a48-a801-71af628360ba" name="[MSK] Сайт экскурсии" url="http://imto.ru">
+        <fileTransfer host="home.imto.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5f5b77ba-e419-4538-9e3a-b07db73affe2" name="imto" url="http://imto.ru">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="a7a9463b-ef9d-411f-a43f-2ccba9fbadd1" name="[FREEL] Сайт фартуки - сервер" url="http://kitcherie.com">
+        <fileTransfer host="server87.hosting.reg.ru" port="21" rootFolder="/www/kitcherie.com/wp-content/themes/kitcherie_themes">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="08fc282e-471f-42d7-bf8d-3084027a6ab3" name="[FREEL] Сайт доработка Моя игра" url="http://mygamesport.ru  ">
+        <fileTransfer host="mygamesport.ru" port="21" rootFolder="/mygamesport.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2e899ca3-2040-4e25-9e41-4989c9d879ff" name="[FEO] Сайт Крыммонтаж" url="http://krimmo1c.beget.tech">
+        <fileTransfer host="krimmo1c.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d77a3e4c-1f24-4928-9dc8-bbf84fd08712" name="[FREEL] Сайт доработки KIVASO" url="http://kivaso.ru">
+        <fileTransfer host="ftp.kivaso.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="00217f0a-70fe-40c3-aae4-36ce5064205b" name="[KRD] Сайт Элина Мама Мышка" url="http://elina2912.beget.tech">
+        <fileTransfer host="elina2912.beget.tech" port="21" rootFolder="/mamamishka/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="606f4fbc-f924-4f8a-8cb4-12ddfa808d87" name="[FREEL] Сайт кредитного брокера" url="http://bkrsitaf.beget.tech">
+        <fileTransfer host="bkrsitaf.beget.tech" port="21" rootFolder="/bkrsitaf.beget.tech/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="453a1c7c-b689-4fd2-92be-c551b4266847" name="[KRD] Сайт Юрист Адилханов" url="http://adilha09.beget.tech">
+        <fileTransfer host="adilha09.beget.tech" port="21" rootFolder="/adilha09.bget.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d8806bcb-986f-40b9-8143-1de1f67e8521" name="[MSK] Сайт Starvan" url="http://starvan.beget.tech">
+        <fileTransfer host="starvan.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="46bf5ff5-373e-4128-8771-60ef6a8af456" name="[FREEL] Сайт консалтинг" url="http://aaconsl4.beget.tech">
+        <fileTransfer host="aaconsl4.beget.tech" port="21" rootFolder="/aaconsl4.beget.tech/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d214dd3e-7114-450c-bf86-d1b5e3869878" name="[FREEL] Сайт бампер" url="http://zashithf.beget.tech">
+        <fileTransfer host="zashithf.beget.tech" port="21" rootFolder="/zashithf.beget.tech/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="13ad5525-9e77-4727-9899-ac8883903d7d" name="[FREEL] Старый one-diet.ru" url="http://sartemk1.beget.tech">
+        <fileTransfer host="sartemk1.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c8c61c08-1c80-49fb-ac88-9add8c1b1d30" name="[MSK] Сайт Старвэн WP" url="http://new.starvan.beget.tech">
+        <fileTransfer host="starvan.beget.tech" port="21" rootFolder="/new.starvan.beget.tech/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a0cf3b3b-3129-474c-a9f1-b3aab4c3579d" name="[KRD] Сайт Антон бочки" url="http://oakbarrel.beget.tech">
+        <fileTransfer host="oakbarrel.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="38bea56b-d024-4da6-8ca9-c7da59dc9e9f" name="[KRD] Сайт Макаев - Делу время" url="http://sitedest.beget.tech">
+        <fileTransfer host="sitedest.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5a01ba97-765c-482e-81cf-babc2a28cbf9" name="[KRD] Сайт покрышки Сергей" url="http://faktor20.beget.tech">
+        <fileTransfer host="faktor20.beget.tech" port="21" rootFolder="/test.faktor20.beget.tech">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="117e5d8b-e56c-4120-bebc-e5db38adb059" name="[FREEL] Cqfn витрина Шины" url="http://37.46.128.47">
+        <fileTransfer host="37.46.128.47" port="21" rootFolder="/ki-ki.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0d429daf-b2a8-41e9-b6fd-dc7a85cd5ab6" name="[FREEL] Сайт сервис Apple" url="http://applekz9.beget.tech">
+        <fileTransfer host="applekz9.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ed6148af-3428-4b92-a188-dd540f6d4d69" name="[FREEL] Сайт магазин ткани" url="http://redmetro.beget.tech">
+        <fileTransfer host="redmetro.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bdf378bf-b6eb-4dcb-a008-146f1721d953" name="[FREEL] Сайт река жизни" url="http://sitereij.beget.tech">
+        <fileTransfer host="sitereij.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="086d8b6c-1cbc-44c3-8aa3-b03cae8c8567" name="[FREEL] Сайт обучение германия" url="http://meinwo0u.beget.tech">
+        <fileTransfer host="meinwo0u.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6ca4940d-c309-4154-8e8e-035b324f2722" name="[FREEL] Квадра лоджик - гемор" url="http://quadral.beget.tech">
+        <fileTransfer host="quadral.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d057e2b9-ed15-4f9c-9e13-a3fb431b5440" name="[MSK] codeigniter Starvan WP" url="http://codeigniter.starvan.beget.tech">
+        <fileTransfer host="starvan.beget.tech" port="21" rootFolder="/codeigniter.starvan.beget.tech">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d78e9d5f-bc99-4982-9f29-5a6311468498" name="[FEO] Сайт костику" url="http://krimko2b.beget.tech">
+        <fileTransfer host="krimko2b.beget.tech" port="21" rootFolder="/krimko2b.beget.tech/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="766f0e03-265c-4ab6-b4eb-ab8bf6f13a3b" name="[FREEL] Сайт заборы" url="http://pergon.ru">
+        <fileTransfer host="ftp.ae2akqdxn.nichost.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="03bc8d32-5ee1-4afb-8396-8ee065d600ac" name="[FREEL] Сайт перенос Кадры" url="http://amalcoak.beget.tech">
+        <fileTransfer host="amalcoak.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="95bfaeb9-3e76-41d5-a53f-1e923c0a675c" name="[MSK] Сайт промизысскания" url="http://dmitriq8.beget.tech">
+        <fileTransfer host="dmitriq8.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="14cf2463-1943-4d85-9383-c9f94b608afa" name="[FREEL] Сайт 3d панели" url="http://u463864.s34.wh1.su/">
+        <fileTransfer host="s50.webhost1.ru" port="21" rootFolder="/html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2900b270-6b33-4dd1-a670-9fb24d3ad684" name="[KRD] Сайт 2 юрист Адилханов" url="http://adilha09.beget.tech">
+        <fileTransfer host="adilha09.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d1271d3f-5681-4254-a535-ed6bee2d0d96" name="[FREEL] Сайт доработка мнуши" url="http://cl225505-wordpress.tw1.ru/">
+        <fileTransfer host="patria.timeweb.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a1b3840b-3b25-4509-a39f-9e97cac2a535" name="[KRD] Oakbarrel refactoring" url="http://oakbarrel.starvan.beget.tech">
+        <fileTransfer host="starvan.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b0013f25-3444-41cf-9c2b-c81b6375f160" name="[FREEL] Сайт ПСС бетон" url="http://pssbeto5.beget.tech">
+        <fileTransfer host="pssbeto5.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="676a0a9a-4355-4853-af8f-de83735587f9" name="[KWORK] Заказ fighter2012" url="http://s05.webhost1.ru">
+        <fileTransfer host="s05.webhost1.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="69a2bc92-0763-4509-bf8f-38ed9b3f222e" name="[KWORK] Заказ san259" url="http://volgap.beget.tech">
+        <fileTransfer host="volgap.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4879f6d3-2eae-4f25-8b41-c6bae7791596" name="[FREEL] Сайт голосование goldstar2018" url="http://goldsto8.beget.tech">
+        <fileTransfer host="goldsto8.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1b27df61-b575-4a78-b5ec-374301f0038b" name="[FL] Сайт голосование экстрасенсы" url="http://kworkku0.beget.tech">
+        <fileTransfer host="kworkku0.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ad935993-1fc0-42a0-80cd-d88df10557d9" name="[KWORK] Сайт плагин перенаправления" url="http://185.65.247.42">
+        <fileTransfer host="185.65.247.42" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1f4b92af-0671-47bb-ab7d-1ec8d8576095" name="[MSK] Сайт переславль главный сервер" url="http://infocevp.beget.tech">
+        <fileTransfer host="infocevp.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="251211f3-85e5-4cd7-850b-130c2615ea0c" name="[FREEL] Сайт доработка trade API" url="http://43.255.154.30">
+        <fileTransfer host="43.255.154.30" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d144e6a8-dac8-455c-941e-a81067c08f33" name="[REC] Сайт доработка bmedlog" url="http://bmedlog.com/">
+        <fileTransfer host="north03031991.myjino.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="24f59b15-b5f9-47d6-83e6-dca7edf53397" name="[KWORK] сайт доработка Город фонариков" url="https://gorod-fonarikov.ru">
+        <fileTransfer host="k33.hostenko.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="26841432-b7e9-412b-88a6-021b70a65849" name="[FREEL] Сайт доработки бухгалтер онлайн" url="http://bitrix228.timeweb.ru">
+        <fileTransfer host="bitrix228.timeweb.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="758da427-a37a-4999-85a1-938376b65a2b" name="[KWORK] Сайт Естествознание" url="http://estestvoz.beget.tech">
+        <fileTransfer host="estestvoz.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="37a9db86-908b-4004-936a-eb2021e55ae6" name="[FREEL] Сайт ПСС бетон клиентский хостинг" url="http://pro-ss.ru">
+        <fileTransfer host="ftp.pro-ss-ru.1gb.ru" port="2222" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d009afb4-48af-4234-8b14-ec80de19fd98" name="[FREEL] Сайт продление жизни" url="http://www.newsforlife.ru">
+        <fileTransfer host="www.newsforlife.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8390c3be-3823-4052-94b5-4c537607c206" name="[FRELL] Сайт доработки редизайн блока" url="http://77.222.57.49">
+        <fileTransfer host="77.222.57.49" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="288a282c-0c4b-43a0-9df9-e8cd9e74396e" name="[FRELL] Сайт доработки редизайн блока (1)" url="http://77.222.57.49">
+        <fileTransfer host="77.222.57.49" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="705bc69a-7731-437b-b0ee-4b7ea3dc860d" name="[FREEL] Сайт доработка itdom24.ru" url="http://82.146.48.203">
+        <fileTransfer host="82.146.48.203" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bcb9ad5b-b4f5-4f87-bdca-bc9745c53e87" name="[FREEL] Сайт доработка Битрикс строительство домов" url="http://prof-dom.spb.ru">
+        <fileTransfer host="37.140.192.12" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b6100fb1-1d8a-489a-bf47-a87acbdfded3" name="[FREEL] Сайт доработка конструктор ножей" url="http://u497906.ftp.masterhost.ru">
+        <fileTransfer host="u497906.ftp.masterhost.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="18eafd77-ceba-4945-8ab4-eb28322d0975" name="[MSK] Сайт переславль посуточно" url="http://infocevp.beget.tech">
+        <fileTransfer host="infocevp.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f9f5ac83-248e-4f99-ae7e-0d814334b15c" name="[KWORK] Сайт коллегия адвокатов" url="http://kollegnk.beget.tech">
+        <fileTransfer host="kollegnk.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9b37fe66-848d-4d68-b4da-e86204bec936" name="[FREEL] Сайт доработка финансы" url="http://oscar4.beget.ru">
+        <fileTransfer host="oscar4.beget.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="779aad8d-20cd-4802-903e-fb898174c1b3" name="[MSK] Сайт доработка финансы Камиль" url="http://188.120.251.103">
+        <fileTransfer host="188.120.251.103" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d474cb04-0608-41bd-8079-c6341b43be16" name="[KWORK] Сайт лендинг td-maximov" url="http://tdmaximov.beget.tech">
+        <fileTransfer host="tdmaximov.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b0be771b-8397-433c-a510-89fd1b0790d3" name="[FREEL] Сайт интернет-магазин tattly.com" url="http://tattly.beget.tech">
+        <fileTransfer host="tattly.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="70ef5724-686c-4ea7-9520-8fb048919ca3" name="[FREEL] Сайт интеграция верстки Битрикс Краски" url="http://77.222.56.23">
+        <fileTransfer host="77.222.56.23" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="545bd764-f8b9-49a8-bcf2-497ab73f124b" name="[KWORK] Сайт Лендинг аредна платформ - клиентский хостинг" url="http://arenda-platform.ru/">
+        <fileTransfer host="ftp.tdm.nichost.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a5ad2249-d0e7-4783-a0ae-172fd77b05e6" name="[MSK] Сайт город фонариков" url="http://gorodfon.beget.tech">
+        <fileTransfer host="gorodfon.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="26eb541d-3e18-4dfe-b02d-970d61951209" name="[FREEL] Сайт доработки пивнюк" url="http://mospivtorg.ru">
+        <fileTransfer host="mospivtorg.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="21765867-f442-4498-99ba-f170f9ae327e" name="[FREEL] Сайт доработки аудиореклама Бриз Саунд" url="http://92.53.96.162">
+        <fileTransfer host="92.53.96.162" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4c81bb6c-3d7c-4f71-bc5a-c767c172e5c1" name="[FREEL] Сайт доработки Волшеблая сила" url="http://vh38.timeweb.ru">
+        <fileTransfer host="vh38.timeweb.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d61d0ef4-9f43-4a1d-88a1-6c691631ad55" name="[FREEL] Сайт доработка фильтр" url="http://vesta-market.com">
+        <fileTransfer host="ftp.vesta-market.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ddf81cfa-9de8-443a-957c-202ed4863ca4" name="[FREEL] Сайт перенос zkinginteriors" url="http://zkingim8.beget.tech">
+        <fileTransfer host="zkingim8.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="de0df7c1-514c-4d94-9394-9354ba4304d4" name="[FREEL] Сайт доработка плагин доставки opencart" url="http://test.sytin.org">
+        <fileTransfer host="sytin-gn.ru" port="22" rootFolder="/var/www/u0233656/data" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

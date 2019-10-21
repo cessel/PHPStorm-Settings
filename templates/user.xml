@@ -1,0 +1,72 @@
+<templateSet group="user">
+  <template name="ss" value="@include media-breakpoint-up(sm) { }&#10;@include media-breakpoint-up(md) { }&#10;@include media-breakpoint-up(lg) { }&#10;@include media-breakpoint-up(xl) { }" shortcut="SPACE" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="wpnav" value="&lt;? wp_nav_menu(array('menu'=&gt;'','menu_class'=&gt;'nav nav-pills ')); ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="$doc" value="$(document).ready(function()&#10;&#9;{&#10;&#9;&#10;&#9;});&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="getp" value="$cat_digit = 21;&#10;&#10;$args = array&#10;    (&#10;        'category'      =&gt; $cat_digit&#10;        ,'numberposts'  =&gt; 4&#10;        ,'meta_key'     =&gt; 'показывать на главной'&#10;        ,'meta_value'   =&gt; 1&#10;    );&#10;&#10;$post_digit = get_posts($args);&#10;$print = &quot;&lt;div class='row'&gt;&quot;;&#10;foreach ( $post_digit as $post_d ) {&#10;&#9;$print .= &quot;&lt;div class='col-lg-3 col-md-3 col-sm-6 col-xs-12'&gt;&quot;;&#10;&#9;&#10;&#9;$print .= &quot;&lt;/div&gt;&quot;;&#10;&#10;&#10;}&#10;$print .= &quot;&lt;/div&gt;&quot;;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="func" value="function ()&#10;    {&#10;        &#10;    }" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="c-f" value="@include center-flex;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="wploop" value="&lt;?php  if( have_posts() ){while(have_posts()){the_post();?&gt;&#10;&#10;&#9;&#10;&#10;&lt;? }} else echo &quot;&lt;h2&gt;Записей нет.&lt;/h2&gt;&quot;;?&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="tran+" value="transition" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="respons" value="&#9;    &lt;? /* DESKTOP */ ?&gt;&#10;&#10;        &lt;div class=&quot;d-none d-xl-block&quot;&gt;&#10;            &#10;        &lt;/div&gt;&#10;&#10;&#10;&#9;    &lt;? /* TABLET */ ?&gt;&#10;&#10;        &lt;div class=&quot;d-none d-sm-block d-md-block d-lg-block d-xl-none&quot;&gt;&#10;            TABLET&#10;        &lt;/div&gt;&#10;&#10;&#10;&#9;    &lt;? /* SMARTPHONE */ ?&gt;&#10;&#10;        &lt;div class=&quot;d-block d-sm-none&quot;&gt;&#10;            SMARTPHONE&#10;        &lt;/div&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="inner" value=".container{&#10;&#9;&#9;.inner{&#10;&#9;&#9;&#9;&#10;&#9;&#9;&#9;}&#10;&#9;&#9;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="brdr" value="border-radius" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="try+" value="try{&#10;&#10;}&#10;catch(e){&#10;&#9;console.log(e);&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="varr" value="echo '&lt;!--&lt;pre&gt;'.print_r($my_title,true).&quot;&lt;/pre&gt;--&gt;&quot;;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="hterrors" value="php_flag display_startup_errors on&#10;php_flag display_errors on&#10;php_flag html_errors on&#10;php_flag log_errors on&#10;php_flag ignore_repeated_errors off&#10;php_flag ignore_repeated_source off&#10;php_flag report_memleaks on&#10;php_flag track_errors on&#10;php_value docref_root 0&#10;php_value docref_ext 0" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

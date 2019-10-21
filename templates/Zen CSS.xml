@@ -1,0 +1,7 @@
+<templateSet group="Zen CSS">
+  <template name="media+" value="@media (min-width: 768px)&#10;&#9;{&#10;&#9;&#10;&#9;}&#10;@media (min-width: 992px)&#10;&#9;{&#10;&#9;&#10;&#9;}&#10;@media (min-width: 1200px)&#10;&#9;{&#10;&#9;&#10;&#9;}&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

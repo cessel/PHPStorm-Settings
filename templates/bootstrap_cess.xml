@@ -1,0 +1,52 @@
+<templateSet group="bootstrap_cess">
+  <template name="divc" value="&lt;div class='col-lg- col-md- col-sm- col-xs-12'&gt;&#10;&#10;&lt;/div&gt;" shortcut="SPACE" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="divd" value="&lt;div class='container'&gt;&#10;&lt;div class='row'&gt;&#10;&lt;div class='col-lg- col-md- col-sm- col-xs-12'&gt;&#10;&lt;/div&gt;&#10;&lt;/div&gt;&#10;&lt;/div&gt;" shortcut="SPACE" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="divr" value="&lt;div class='row'&gt;&#10;&#10;&lt;/div&gt;" shortcut="SPACE" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="pp" value="&lt;p class=''&gt;&lt;/p&gt;" shortcut="SPACE" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="sss" value="&lt;strong&gt;&lt;/strong&gt;" shortcut="SPACE" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ii" value="&lt;img src='' class='img-responsive' alt=''&gt;" shortcut="SPACE" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ee" value="&lt;?=$END$; ?&gt;" shortcut="SPACE" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="clog" value="console.log();" shortcut="SPACE" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="$doc" value="$(document).ready(function()&#10;&#9;{&#10;&#9;&#10;&#9;});&#10;" shortcut="SPACE" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="owlca" value="$('.owl-carousel').owlCarousel({&#10;    loop:true,&#10;    margin:10,&#10;    nav:true,&#10;    responsive:{&#10;        0:{&#10;            items:1&#10;        },&#10;        600:{&#10;            items:1&#10;        },&#10;        1000:{&#10;            items:1&#10;        }&#10;    }&#10;})" shortcut="SPACE" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

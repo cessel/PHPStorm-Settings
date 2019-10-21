@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="cshtml" type="C#" />
+      <mapping ext="mo" type="Native" />
+      <mapping pattern="_sidecart.scss" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping pattern="pr" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess_old" type="PLAIN_TEXT" />
+      <mapping pattern="access_log" type="PLAIN_TEXT" />
+      <mapping pattern=".ftpquota" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
+      <mapping ext="liquid" type="Twig" />
+    </extensionMap>
+  </component>
+</application>
