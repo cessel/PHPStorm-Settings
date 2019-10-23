@@ -630,6 +630,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="e6f864b7-87fd-45dc-91d4-399a7be36a24" name="[KWORK] Сайт плагин API SmartAgent" url="http://37.140.192.54">
+        <fileTransfer host="37.140.192.54" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
