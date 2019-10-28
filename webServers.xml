@@ -638,6 +638,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="6948f1cd-304e-430f-aa74-79697789f1cc" name="[GUILD] Сайт доработа studioestel.ru" url="http://ftp.studio5859.nichost.ru">
+        <fileTransfer host="ftp.studio5859.nichost.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
