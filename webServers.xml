@@ -646,6 +646,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="01c5ea47-cccc-42cc-bd57-2e5285c4c04b" name="[FREEL] Сайт доработки юрист Кудинов" url="http://server99.hosting.reg.ru">
+        <fileTransfer host="server99.hosting.reg.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
