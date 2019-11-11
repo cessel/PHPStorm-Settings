@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="cshtml" type="C#" />
+      <mapping pattern="cron" type="Log" />
       <mapping ext="mo" type="Native" />
       <mapping pattern="_sidecart.scss" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
