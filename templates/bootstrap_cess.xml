@@ -29,7 +29,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="ee" value="&lt;?=$END$; ?&gt;" shortcut="SPACE" description="" toReformat="true" toShortenFQNames="true">
+  <template name="ee" value="&lt;?=$END$;?&gt;" shortcut="SPACE" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
