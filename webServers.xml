@@ -654,6 +654,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="72ffffe6-5d3a-446d-aeed-087752e2669d" name="[MSK] Сайт новый nice-beer.ru" url="http://ftp.nice-beerru.419.com1.ru">
+        <fileTransfer host="ftp.nice-beerru.419.com1.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
