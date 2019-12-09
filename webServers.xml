@@ -662,6 +662,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="6a1df5a3-ece2-4301-a1d5-5fbcc7e10e40" name="[FREEL] Сайт скрипт новая карта" url="http://permma6s.beget.tech">
+        <fileTransfer host="permma6s.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
