@@ -69,7 +69,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="prir" value="print_r($END$);" toReformat="false" toShortenFQNames="true">
+  <template name="prir" value="print_r($END$);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
