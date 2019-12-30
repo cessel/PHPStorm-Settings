@@ -74,7 +74,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="wpmob" value="&lt;? if(wp_is_mobile()) : ?&gt;&#10;$END$&#10;&lt;? endif;?&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="wpmob" value="&lt;? if(wp_is_mobile()) : ?&gt;&#10;$END$&#10;&lt;? endif;?&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
