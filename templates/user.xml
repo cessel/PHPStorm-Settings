@@ -79,12 +79,12 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="getf" value="$var = get_field('$END$','options');" toReformat="false" toShortenFQNames="true">
+  <template name="getf" value="$var = get_field('$END$','options');" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="html+" value="$html .= '&lt;div class=&quot;$mainclass$&quot;&gt;';&#10;$html .= '&lt;div class=&quot;$mainclass$__inner&quot;&gt;';&#10;&#9;&#9; $END$&#10;$html .= '&lt;/div&gt;';&#10;$html .= '&lt;/div&gt;';" toReformat="false" toShortenFQNames="true">
+  <template name="html+" value="$html .= '&lt;div class=&quot;$mainclass$&quot;&gt;';&#10;$html .= '&lt;div class=&quot;$mainclass$__inner&quot;&gt;';&#10;&#9;&#9; $END$&#10;$html .= '&lt;/div&gt;';&#10;$html .= '&lt;/div&gt;';" description="" toReformat="false" toShortenFQNames="true">
     <variable name="mainclass" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
