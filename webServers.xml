@@ -670,6 +670,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="8165da3d-14be-4262-8f8c-ba7cc6ab4a01" name="[FREEL] Сайт доработка свадьба на сицилии" url="http://dev2.etnamare.org">
+        <fileTransfer host="ftp.etnamare.org" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
