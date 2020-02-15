@@ -678,8 +678,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="a3b7ae59-d91a-4440-a1d1-dc5af4b029bd" name="[KWORK] Сайт доработка нагрузка на БД" url="http://gradii44.beget.tech">
-        <fileTransfer host="gradii44.beget.tech" port="21">
+      <webServer id="a3b7ae59-d91a-4440-a1d1-dc5af4b029bd" name="[KWORK] Сайт доработка нагрузка на БД" url="http://healthage.ru">
+        <fileTransfer host="healthage.ru" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
