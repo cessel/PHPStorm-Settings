@@ -694,6 +694,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c88e94be-b4ef-470b-9869-552c3aebc09a" name="[FREEL] Сайт доработки Йога Get response" url="http://ftp.yogaroggelin.ru">
+        <fileTransfer host="ftp.yogaroggelin.ru" port="21" rootFolder="/domains/yogaroggelin.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
