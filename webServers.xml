@@ -713,7 +713,7 @@
       <webServer id="f459d04e-7700-4b42-a8e4-42548d6ecfe6" name="[FREEL] Сайт доработка ускорить Italiatut" url="http://itm19.siteground.biz">
         <fileTransfer host="itm19.siteground.biz" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" forceListCommand="true" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
