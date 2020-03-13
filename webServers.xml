@@ -718,6 +718,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="e21c8aca-d6f7-409f-9c7a-d862df522f14" name="[FREEL] Сайт доработки giftery" url="http://85.119.149.160">
+        <fileTransfer host="85.119.149.160" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
