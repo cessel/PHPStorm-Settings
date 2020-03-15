@@ -726,6 +726,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="8012057a-639a-4df3-bb50-2ee1dc311c07" name="[FREEL] Сайт доработки ускорить italiatut 2" url="http://italiatut.beget.tech">
+        <fileTransfer host="italiatut.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
