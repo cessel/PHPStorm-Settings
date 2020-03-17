@@ -4,4 +4,14 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="df" value="display:flex;" description="display:flex;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="c:p" value="cursor:pointer;" description="cursor:pointer;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
 </templateSet>
