@@ -4,7 +4,32 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="p:a" value="position:absolute;" description="position:absolute;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="p:r" value="position:relative;" description="position:relative;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="dn" value="display:none;" description="display:none;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="db" value="display:block;" description="display:block;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
   <template name="df" value="display:flex;" description="display:flex;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="dib" value="display:inline-block;" description="display:inline-block;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>

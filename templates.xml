@@ -4,7 +4,27 @@
       <list>
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
+          <option name="key" value="pos:a" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="pos:r" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="d:n" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="d:b" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
           <option name="key" value="d:f" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="d:ib" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
