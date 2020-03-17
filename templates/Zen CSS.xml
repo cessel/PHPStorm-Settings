@@ -39,4 +39,9 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>
   </template>
+  <template name="aic" value="align-items:center;" description="align-items:center;" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
 </templateSet>

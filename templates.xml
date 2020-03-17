@@ -31,6 +31,10 @@
           <option name="key" value="cur:p" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="Zen CSS" />
+          <option name="key" value="ai:c" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_if" />
         </TemplateKey>
