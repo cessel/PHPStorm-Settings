@@ -59,7 +59,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="varr" value="echo '&lt;!--&lt;pre&gt;'.print_r($my_title,true).&quot;&lt;/pre&gt;--&gt;&quot;;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="varr" value="echo '&lt;pre&gt;'.print_r($my_title,true).'&lt;/pre&gt;';" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
