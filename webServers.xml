@@ -758,6 +758,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="a5d85cb2-06f2-4a5f-8058-bf9b9ab83654" name="[MSK] Сайт РОДИН VPS" url="http://45.84.225.225">
+        <fileTransfer host="45.84.225.225" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
