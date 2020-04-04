@@ -13,6 +13,7 @@
       <mapping pattern="bigbluebutton" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern="_sidecart.scss" type="PLAIN_TEXT" />
+      <mapping ext="nginx" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
       <removed_mapping ext="properties" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="Log" />
