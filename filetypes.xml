@@ -3,12 +3,14 @@
     <extensionMap>
       <mapping ext="cshtml" type="C#" />
       <mapping pattern="pr_utf8" type="CSV" />
+      <mapping ext="postinst" type="Ini" />
       <mapping ext="mo" type="Native" />
       <mapping pattern="pr" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern=".ftpquota" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_old" type="PLAIN_TEXT" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
+      <mapping pattern="bigbluebutton" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern="_sidecart.scss" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
