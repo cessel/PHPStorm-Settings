@@ -774,6 +774,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="24631dee-a2c5-449f-a2e0-591748dd82c2" name="[FREEL] Сайт Trade Alliance" url="http://amarenc0.beget.tech">
+        <fileTransfer host="amarenc0.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
