@@ -782,6 +782,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c319e7f8-d260-482d-ae33-61e0c2413248" name="[FREEL] Сайт рандомайзер - клиентский хостинг" url="http://Random24.ru">
+        <fileTransfer host="Random24.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
