@@ -806,6 +806,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="e5d6192a-f872-4de5-9c65-38799da8c7f9" name="[FREEL] Сайт redlikhmebel - корпоративный" url="http://185.74.254.143">
+        <fileTransfer host="185.74.254.143" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
