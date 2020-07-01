@@ -814,6 +814,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="795b979a-1f8c-4be6-9816-b30fe85687df" name="[KWORK] Сайт доработки повесить кнопку" url="http://andersxj.beget.tech">
+        <fileTransfer host="andersxj.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
