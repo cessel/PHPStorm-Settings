@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="5e5f7c14-6065-44d7-8602-24f86eca5798" name="cessel">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="cessel" />
     <option name="HOST" value="https://github.com" />
