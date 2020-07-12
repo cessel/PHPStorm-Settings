@@ -822,6 +822,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="86a496b3-8ef1-49b5-bdad-f4a908875bac" name="[FREEL] Сайт доработки Китайские ноутбуки" url="http://ru_test.maibenben.cn">
+        <fileTransfer host="ru_test.maibenben.cn" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
