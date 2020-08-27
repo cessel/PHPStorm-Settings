@@ -846,6 +846,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="bc59c1e4-122a-4907-b15d-14f95d960e93" name="[FREEL] Сайт добаботка cardok.info" url="http://cardok.info">
+        <fileTransfer host="cardok.info" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
