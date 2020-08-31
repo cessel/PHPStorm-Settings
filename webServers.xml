@@ -702,8 +702,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="64f2ecbd-90e4-44c5-b608-5e2b8582b15d" name="[MSK] Сайт пивнюк mopito" url="http://mopito.ru">
-        <fileTransfer host="mopito.ru" port="21">
+      <webServer id="64f2ecbd-90e4-44c5-b608-5e2b8582b15d" name="[MSK] Сайт пивнюк mopito" url="http://ftp.sms-moru.smsmoru2.cp.regruhosting.ru">
+        <fileTransfer host="ftp.sms-moru.smsmoru2.cp.regruhosting.ru" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
