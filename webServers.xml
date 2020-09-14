@@ -854,6 +854,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="a4b3924a-fe9b-41cf-8833-4aaddbd1478b" name="[FREEL] Сайт ДонТехМаш" url="http://dontehmash.beget.tech/">
+        <fileTransfer host="dontehmash.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
