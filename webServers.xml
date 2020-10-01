@@ -862,6 +862,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="a6b70ac7-d387-4aa2-ab63-01f533e88dcc" name="[REC] Сайт поставить счетчики konsul-yurist" url="http://konsulft.beget.tech">
+        <fileTransfer host="konsulft.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
