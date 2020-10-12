@@ -12,8 +12,10 @@
       <mapping pattern=".htaccess_old" type="PLAIN_TEXT" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
       <mapping pattern="bigbluebutton" type="PLAIN_TEXT" />
+      <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern="_sidecart.scss" type="PLAIN_TEXT" />
+      <mapping pattern="PriceTriton" type="PLAIN_TEXT" />
       <mapping ext="wednesday20205" type="PLAIN_TEXT" />
       <mapping ext="nginx" type="PLAIN_TEXT" />
       <mapping ext="20201007" type="PLAIN_TEXT" />
