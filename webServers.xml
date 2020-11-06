@@ -54,7 +54,7 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="a596093a-1e2b-4ff1-abf4-ab56991b711b" name="[MSK] Сайт Родин" url="http://rusartschool.ru">
-        <fileTransfer host="bane.beget.com" port="21" rootFolder="/izostudiya/public_html">
+        <fileTransfer host="cesselhm.beget.tech" port="21" rootFolder="/izostudiya/public_html">
           <advancedOptions>
             <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" forceListCommand="true" passiveMode="true" />
           </advancedOptions>
