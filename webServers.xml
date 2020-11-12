@@ -886,6 +886,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="0303daa8-9bb5-4e87-9b3c-02156434e4b7" name="[FREEL] Сайт доработка medime" url="http://medime.vn">
+        <fileTransfer host="medime.vn" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
