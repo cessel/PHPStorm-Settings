@@ -894,6 +894,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="12565690-b2d1-4944-9fe9-ecfdc7ee379d" name="[FREEL] Сайт доработки bollu мебель" url="http://cd72934.tmweb.ru">
+        <fileTransfer host="cd72934.tmweb.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
