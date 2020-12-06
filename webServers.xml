@@ -902,6 +902,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="4b34a8cc-407d-4202-aa9f-ad7bf30ba2a2" name="[KWORK] Сайт доработа слайдер вместо картинки" url="http://h70218d6.beget.tech">
+        <fileTransfer host="h70218d6.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
