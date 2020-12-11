@@ -910,6 +910,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="d892d7c8-3b3d-4c26-a31b-a1016ba90ad0" name="[FREEL] Сайт Еврейский Сукка" url="http://sukkot.beget.tech">
+        <fileTransfer host="sukkot.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
