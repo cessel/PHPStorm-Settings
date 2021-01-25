@@ -8,6 +8,7 @@
       <mapping pattern="pr" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="__enquiredStyles" type="PLAIN_TEXT" />
+      <mapping pattern="wordpress" type="PLAIN_TEXT" />
       <mapping pattern=".ftpquota" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_old" type="PLAIN_TEXT" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
