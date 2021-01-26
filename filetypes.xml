@@ -21,6 +21,7 @@
       <mapping ext="nginx" type="PLAIN_TEXT" />
       <mapping ext="20201007" type="PLAIN_TEXT" />
       <mapping ext="20201006" type="PLAIN_TEXT" />
+      <mapping ext="setup" type="PLAIN_TEXT" />
       <mapping ext="20201005" type="PLAIN_TEXT" />
       <mapping ext="20210119" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
