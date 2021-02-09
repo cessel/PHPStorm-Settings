@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="77ceff15-addc-4a5b-88ff-e2e11249a894" name="Main Cessel" url="http://temp.cessel.bget.ru/">
+      <webServer id="77ceff15-addc-4a5b-88ff-e2e11249a894" name="Main Cessel" url="https://starvan.ru/">
         <fileTransfer host="cessel.beget.tech" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
