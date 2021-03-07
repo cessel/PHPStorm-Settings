@@ -934,6 +934,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c3a0b41c-1ba3-400c-b1ec-22138f91bfee" name="[KWORK] Сайт гагаузский портал" url="http://gagauz.online">
+        <fileTransfer host="gagauz.online" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
