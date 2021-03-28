@@ -1,0 +1,14 @@
+<templateSet group="PHP">
+  <template name="issp" value="$$$VAR_KEY$ = (isset($_POST['$VAR_KEY$'])) ? $_POST['$VAR_KEY$'] : false;" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="issg" value="$$$VAR_KEY$ = (isset($_GET['$VAR_KEY$'])) ? $_GET['$VAR_KEY$'] : false;" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
