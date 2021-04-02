@@ -878,8 +878,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="ea47ce8d-5ca4-4010-b5e7-67b15844f314" name="[FREEL-KWORK] Сайт доработка вариативный товар " url="http://ftp55.hostland.ru">
-        <fileTransfer host="ftp55.hostland.ru" port="21">
+      <webServer id="ea47ce8d-5ca4-4010-b5e7-67b15844f314" name="[FREEL-KWORK] Сайт доработка вариативный товар " url="http://ftp53.hostland.ru">
+        <fileTransfer host="ftp53.hostland.ru" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
