@@ -215,7 +215,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a0cf3b3b-3129-474c-a9f1-b3aab4c3579d" name="[KRD] Сайт Антон бочки" url="https://oakbarrel.ru">
-        <fileTransfer host="oakbarrel.beget.tech" port="21">
+        <fileTransfer host="serena4.beget.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
