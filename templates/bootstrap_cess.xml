@@ -29,12 +29,13 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="ee" value="&lt;?=$END$;?&gt;" shortcut="SPACE" description="" toReformat="true" toShortenFQNames="true">
+  <template name="ee" value="&lt;?php echo $VAR$; ?&gt;" shortcut="SPACE" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="clog" value="console.log();" shortcut="SPACE" description="" toReformat="false" toShortenFQNames="true">
+  <template name="clog" value="console.log();" shortcut="SPACE" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
