@@ -11,4 +11,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="switch+" value="&#9;&#9;switch ($VAR1$){&#10;&#9;&#9;&#9;case '$VAR2$':&#10;&#9;&#9;&#9;&#9;$VAR3$&#10;&#9;&#9;&#9;&#9;break;&#10;&#9;&#9;&#9;default:&#10;&#9;&#9;&#9;&#9;break;&#10;&#9;&#9;}&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
