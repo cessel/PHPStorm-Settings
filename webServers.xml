@@ -966,6 +966,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="f71f304a-4b1a-4409-a560-1afbf2eb5de9" name="[KWORK] Сайт плагин отчетов" url="http://ftp.mahlzeitservice.de">
+        <fileTransfer host="ftp.mahlzeitservice.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
