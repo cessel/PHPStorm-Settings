@@ -95,7 +95,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="ifshort" value="$VAR$ = ($VAR2$) ? $VAR3$ : $VAR4$;" toReformat="false" toShortenFQNames="true">
+  <template name="ifshort" value="$VAR$ = ($VAR2$) ? $VAR3$ : $VAR4$;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
