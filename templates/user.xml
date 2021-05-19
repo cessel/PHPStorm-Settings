@@ -56,7 +56,7 @@
   </template>
   <template name="try+" value="try{&#10;&#10;}&#10;catch(e){&#10;&#9;console.log(e);&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="OTHER" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="varr" value="echo '&lt;pre&gt;'.print_r($my_title,true).'&lt;/pre&gt;';" description="" toReformat="false" toShortenFQNames="true">
@@ -92,6 +92,16 @@
   </template>
   <template name="ifeco" value="if($echo == true){ echo $html;}&#10;else{return $html;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ifshort" value="$VAR$ = ($VAR2$) ? $VAR3$ : $VAR4$;" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR4" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
