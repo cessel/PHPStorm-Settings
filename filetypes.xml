@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="cshtml" type="C#" />
       <mapping pattern="pr_utf8" type="CSV" />
-      <mapping ext="csv" type="CSV" />
       <mapping ext="postinst" type="Ini" />
       <mapping ext="mo" type="Native" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
@@ -30,6 +29,7 @@
       <mapping ext="liquid" type="Twig" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="properties" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <mapping pattern="cron" type="Log" />
     </extensionMap>
   </component>
