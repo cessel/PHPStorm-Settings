@@ -1,32 +1,34 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="cshtml" type="C#" />
       <mapping pattern="pr_utf8" type="CSV" />
+      <mapping ext="csv" type="CSV" />
       <mapping ext="postinst" type="Ini" />
       <mapping ext="mo" type="Native" />
-      <mapping pattern="pr" type="PLAIN_TEXT" />
-      <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern="__enquiredStyles" type="PLAIN_TEXT" />
-      <mapping pattern="wordpress" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess_old" type="PLAIN_TEXT" />
-      <mapping pattern=".ftpquota" type="PLAIN_TEXT" />
-      <mapping pattern="access_log" type="PLAIN_TEXT" />
-      <mapping pattern="bigbluebutton" type="PLAIN_TEXT" />
-      <mapping pattern="PriceTriton" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
+      <mapping pattern=".ftpquota" type="PLAIN_TEXT" />
+      <mapping pattern="pr" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess_old" type="PLAIN_TEXT" />
       <mapping pattern="_sidecart.scss" type="PLAIN_TEXT" />
-      <mapping ext="loaded" type="PLAIN_TEXT" />
-      <mapping ext="20201005" type="PLAIN_TEXT" />
-      <mapping ext="20210119" type="PLAIN_TEXT" />
+      <mapping pattern="bigbluebutton" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping pattern="access_log" type="PLAIN_TEXT" />
+      <mapping pattern="__enquiredStyles" type="PLAIN_TEXT" />
+      <mapping pattern="PriceTriton" type="PLAIN_TEXT" />
+      <mapping pattern="wordpress" type="PLAIN_TEXT" />
       <mapping ext="setup" type="PLAIN_TEXT" />
-      <mapping ext="rc" type="PLAIN_TEXT" />
-      <mapping ext="wednesday20205" type="PLAIN_TEXT" />
-      <mapping ext="20201007" type="PLAIN_TEXT" />
-      <mapping ext="20201006" type="PLAIN_TEXT" />
       <mapping ext="nginx" type="PLAIN_TEXT" />
+      <mapping ext="20210119" type="PLAIN_TEXT" />
+      <mapping ext="20201007" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping ext="20201006" type="PLAIN_TEXT" />
+      <mapping ext="20201005" type="PLAIN_TEXT" />
+      <mapping ext="loaded" type="PLAIN_TEXT" />
+      <mapping ext="wednesday20205" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="properties" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="Log" />
     </extensionMap>
