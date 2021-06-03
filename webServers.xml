@@ -862,6 +862,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="bb312977-eac1-4d46-a84d-8de94e5f0a90" name="[KWORK] Сайт доработка Заправка картриджей" url="https://greentex.kiev.ua/">
+        <fileTransfer host="eg8.mirohost.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
