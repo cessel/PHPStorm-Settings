@@ -1,23 +1,23 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="ftp.pro-ss-ru.1gb.ru" id="e8e96def-d711-42ed-b68f-94cd0c5afb6a" port="2222" customName="[FREEL] Сайт ПСС бетон клиентский хостинг" nameFormat="CUSTOM" username="w_pro-ss-ru_f2809982">
-        <option name="customName" value="[FREEL] Сайт ПСС бетон клиентский хостинг" />
+      <sshConfig authType="PASSWORD" host="193.176.79.126" id="9ad48c9b-51d8-4afb-b238-d16e445ff2f1" port="22" customName="[FREEL] Сайт VPS Zaimme.ru" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="[FREEL] Сайт VPS Zaimme.ru" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="sytin-gn.ru" id="7038336c-ab5d-494a-9e85-0ec7cd4ce2a4" port="22" customName="[FREEL] Сайт доработка плагин доставки opencart" nameFormat="CUSTOM" username="u0233656">
         <option name="customName" value="[FREEL] Сайт доработка плагин доставки opencart" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="45.84.225.225" id="b23aa248-9077-49a9-b7e4-f3b401fa4a9e" port="22" customName="[MSK] Сайт РОДИН VPS" nameFormat="CUSTOM" username="root">
-        <option name="customName" value="[MSK] Сайт РОДИН VPS" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="185.104.112.96" id="674e6f73-380d-4f99-9232-d1380390ca06" port="22" customName="[KWORK] Сайт доработки скрипт импорта по языкам" nameFormat="CUSTOM" username="root">
-        <option name="customName" value="[KWORK] Сайт доработки скрипт импорта по языкам" />
+      <sshConfig authType="PASSWORD" host="ftp.pro-ss-ru.1gb.ru" id="e8e96def-d711-42ed-b68f-94cd0c5afb6a" port="2222" customName="[FREEL] Сайт ПСС бетон клиентский хостинг" nameFormat="CUSTOM" username="w_pro-ss-ru_f2809982">
+        <option name="customName" value="[FREEL] Сайт ПСС бетон клиентский хостинг" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="my-dentistry.com" id="6fdf127e-e7b4-4a19-8eab-d8a6a3819fdc" port="22" customName="[KWORK] Сайт доработки ДенталСервис" nameFormat="CUSTOM" username="h3nl43969834250">
         <option name="customName" value="[KWORK] Сайт доработки ДенталСервис" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="193.176.79.126" id="9ad48c9b-51d8-4afb-b238-d16e445ff2f1" port="22" customName="[FREEL] Сайт VPS Zaimme.ru" nameFormat="CUSTOM" username="root">
-        <option name="customName" value="[FREEL] Сайт VPS Zaimme.ru" />
+      <sshConfig authType="PASSWORD" host="185.104.112.96" id="674e6f73-380d-4f99-9232-d1380390ca06" port="22" customName="[KWORK] Сайт доработки скрипт импорта по языкам" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="[KWORK] Сайт доработки скрипт импорта по языкам" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="45.84.225.225" id="b23aa248-9077-49a9-b7e4-f3b401fa4a9e" port="22" customName="[MSK] Сайт РОДИН VPS" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="[MSK] Сайт РОДИН VPS" />
       </sshConfig>
     </configs>
   </component>
