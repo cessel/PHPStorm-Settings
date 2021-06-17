@@ -869,6 +869,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="3f961223-b812-41c7-88f0-ed541f092909" name="FREEL_Сайт SukkotHadar2" url="http://sukkoth2.beget.tech">
+        <fileTransfer host="sukkoth2.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
