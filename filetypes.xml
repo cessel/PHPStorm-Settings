@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="cshtml" type="C#" />
-      <mapping pattern="pr_utf8" type="CSV" />
       <mapping ext="postinst" type="Ini" />
       <mapping ext="mo" type="Native" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
