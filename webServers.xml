@@ -876,6 +876,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="8c02d781-79bf-427f-8fae-927668b0e3df" name="[KWORK] Сайт суперсемейка" url="http://r920692z.beget.tech">
+        <fileTransfer host="r920692z.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
