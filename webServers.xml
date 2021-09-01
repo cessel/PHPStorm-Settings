@@ -883,6 +883,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="0ba6ffa3-48d0-41c9-bd60-e2a309d26815" name="[KWORK] Сайт Натяжные потолки Politoto" url="https://potolito.ru/">
+        <fileTransfer host="ftp.poto896911.nichost.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
