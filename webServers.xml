@@ -890,6 +890,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="aa2cda8a-e321-43cd-a240-671deed6cee5" name="[KWORK] Сайт доработка за-против" url="http://46.36.217.240">
+        <fileTransfer host="46.36.217.240" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
