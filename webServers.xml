@@ -897,6 +897,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="b335962d-b9cc-46cc-bf6c-052c7cb6b9a1" name="[KWORK] Сайт криптовалюта с личным кабинетом" url="https://advertcoinroom.com">
+        <fileTransfer host="37.140.192.191" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
