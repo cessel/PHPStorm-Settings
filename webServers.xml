@@ -904,6 +904,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="88ea44d9-2872-4139-9c26-f2fea491f91e" name="[KWORK] Сайт калькулятор печатных плат - клиентский хостинг" url="http://serviceblog.ru/">
+        <fileTransfer host="77.222.40.193" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
