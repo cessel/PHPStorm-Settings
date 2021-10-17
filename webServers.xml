@@ -911,6 +911,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="747a2a04-3511-4e14-9edc-25a511a9000e" name="[MSK] Сайт Пивнюк Hiconix" url="http://37.140.192.219">
+        <fileTransfer host="37.140.192.219" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
