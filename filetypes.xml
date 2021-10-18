@@ -16,6 +16,7 @@
       <mapping pattern="__enquiredStyles" type="PLAIN_TEXT" />
       <mapping pattern="PriceTriton" type="PLAIN_TEXT" />
       <mapping pattern="wordpress" type="PLAIN_TEXT" />
+      <mapping ext="base" type="PLAIN_TEXT" />
       <mapping ext="setup" type="PLAIN_TEXT" />
       <mapping ext="nginx" type="PLAIN_TEXT" />
       <mapping ext="20210119" type="PLAIN_TEXT" />
