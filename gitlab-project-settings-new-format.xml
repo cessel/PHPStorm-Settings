@@ -1,0 +1,14 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiUrl" value="https://gitlab.lionsdigital.pro/ksma/newsite" />
+          <option name="preferredConnection" value="HTTPS" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="gitlab.lionsdigital.pro" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
