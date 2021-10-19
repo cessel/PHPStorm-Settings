@@ -261,11 +261,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="d78e9d5f-bc99-4982-9f29-5a6311468498" name="[FEO] Сайт костику" url="http://krimko2b.beget.tech">
-        <fileTransfer rootFolder="/krimko2b.beget.tech/public_html" host="krimko2b.beget.tech" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
-          </advancedOptions>
-        </fileTransfer>
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="766f0e03-265c-4ab6-b4eb-ab8bf6f13a3b" name="[FREEL] Сайт заборы" url="http://pergon.ru">
         <fileTransfer host="ftp.ae2akqdxn.nichost.ru" port="21">
