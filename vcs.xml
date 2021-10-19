@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/webasyst/shop-script.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.lionsdigital.pro" />
+          <option name="userName" value="aignatov" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="K:\openserver\OSPanel\domains\" />
