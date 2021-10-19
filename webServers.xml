@@ -918,6 +918,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="f2022418-268d-43fd-9629-377179ebd03c" name="[WORK] Сайт ksma" url="http://127.0.0.1.nip.io">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
