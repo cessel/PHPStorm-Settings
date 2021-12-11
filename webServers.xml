@@ -917,6 +917,13 @@
       <webServer id="f2022418-268d-43fd-9629-377179ebd03c" name="[WORK] Сайт ksma" url="http://127.0.0.1.nip.io">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="8c9d6cba-0995-4d1a-9268-041a42c910f0" name="[MSK] Сайт ecoclima" url="http://37.140.192.219">
+        <fileTransfer host="37.140.192.219" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
