@@ -810,7 +810,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="dc1dc68f-397e-4520-bad6-79a86054d72b" name="[FREEL] Сайт VPS Zaimme.ru" url="http://193.176.79.126">
-        <fileTransfer accessType="SFTP" host="193.176.79.126" port="22" sshConfigId="9ad48c9b-51d8-4afb-b238-d16e445ff2f1" sshConfig="[FREEL] Сайт VPS Zaimme.ru">
+        <fileTransfer accessType="SFTP" host="185.143.173.220" port="22" sshConfigId="9ad48c9b-51d8-4afb-b238-d16e445ff2f1" sshConfig="[FREEL] Сайт VPS Zaimme.ru">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
