@@ -19,6 +19,9 @@
       <sshConfig authType="PASSWORD" host="45.84.225.225" id="b23aa248-9077-49a9-b7e4-f3b401fa4a9e" port="22" customName="[MSK] Сайт РОДИН VPS" nameFormat="CUSTOM" username="root">
         <option name="customName" value="[MSK] Сайт РОДИН VPS" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="10.9.0.126" id="5fea610b-4a8a-453e-b89d-866539841be4" port="22" customName="[LSN] Сайт Moodle dev" nameFormat="CUSTOM" username="mdl">
+        <option name="customName" value="[LSN] Сайт Moodle dev" />
+      </sshConfig>
     </configs>
   </component>
 </application>

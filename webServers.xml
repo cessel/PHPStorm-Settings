@@ -924,6 +924,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="9eff9c91-f48a-494d-aca1-fa8a2048764b" name="[LSN] Сайт Moodle dev" url="https://mdl-ksma.lionsdigital.pro/">
+        <fileTransfer accessType="SFTP" host="10.9.0.126" port="22" sshConfigId="5fea610b-4a8a-453e-b89d-866539841be4" sshConfig="[LSN] Сайт Moodle dev">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
