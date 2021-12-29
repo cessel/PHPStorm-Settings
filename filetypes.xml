@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="ad000e7051bc6cc97a60d494067e61c446ef1774" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="AUTO_DETECTED" />
       <mapping ext="cshtml" type="C#" />
       <mapping ext="postinst" type="Ini" />
