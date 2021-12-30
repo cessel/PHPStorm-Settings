@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ad000e7051bc6cc97a60d494067e61c446ef1774" type="AUTO_DETECTED" />
       <mapping pattern="syslog" type="AUTO_DETECTED" />
+      <mapping pattern="faillog" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="AUTO_DETECTED" />
       <mapping ext="cshtml" type="C#" />
       <mapping ext="postinst" type="Ini" />
@@ -25,6 +26,7 @@
       <mapping ext="20210119" type="PLAIN_TEXT" />
       <mapping ext="20201007" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="20201006" type="PLAIN_TEXT" />
       <mapping ext="20201005" type="PLAIN_TEXT" />
       <mapping ext="loaded" type="PLAIN_TEXT" />
