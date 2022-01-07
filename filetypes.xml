@@ -6,6 +6,7 @@
       <mapping pattern="faillog" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="AUTO_DETECTED" />
       <mapping ext="cshtml" type="C#" />
+      <mapping ext="bak" type="CSS" />
       <mapping ext="postinst" type="Ini" />
       <mapping ext="mo" type="Native" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
