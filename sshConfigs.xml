@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="10.9.0.126" id="9ad48c9b-51d8-4afb-b238-d16e445ff2f1" port="22" customName="[FREEL] Сайт VPS Zaimme.ru" nameFormat="CUSTOM" username="ksma">
+      <sshConfig authType="PASSWORD" host="10.9.0.126" id="9ad48c9b-51d8-4afb-b238-d16e445ff2f1" port="22" customName="[FREEL] Сайт VPS Zaimme.ru" nameFormat="CUSTOM" username="ksma" useOpenSSHConfig="true">
         <option name="customName" value="[FREEL] Сайт VPS Zaimme.ru" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="sytin-gn.ru" id="7038336c-ab5d-494a-9e85-0ec7cd4ce2a4" port="22" customName="[FREEL] Сайт доработка плагин доставки opencart" nameFormat="CUSTOM" username="u0233656">
@@ -23,6 +23,7 @@
         <option name="customName" value="[LSN] Сайт Moodle dev" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="10.9.0.126" id="e073b7ca-3722-4d84-a052-4f1c4d0ca53d" port="22" nameFormat="DESCRIPTIVE" username="ksma" />
+      <sshConfig authType="PASSWORD" host="10.9.0.126" id="b209dab8-6fad-4c4d-8973-ecf37d5c76d5" port="22" nameFormat="DESCRIPTIVE" username="ksma" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
