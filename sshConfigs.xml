@@ -22,7 +22,7 @@
       <sshConfig authType="PASSWORD" host="10.9.0.126" id="5fea610b-4a8a-453e-b89d-866539841be4" port="22" customName="[LSN] Сайт Moodle dev" nameFormat="CUSTOM" username="mdl">
         <option name="customName" value="[LSN] Сайт Moodle dev" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="10.9.0.126" id="e073b7ca-3722-4d84-a052-4f1c4d0ca53d" port="22" nameFormat="DESCRIPTIVE" username="ksma" />
+      <sshConfig authType="PASSWORD" host="10.9.0.126" id="e073b7ca-3722-4d84-a052-4f1c4d0ca53d" port="22" nameFormat="DESCRIPTIVE" username="ksma" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" host="10.9.0.126" id="b209dab8-6fad-4c4d-8973-ecf37d5c76d5" port="22" nameFormat="DESCRIPTIVE" username="ksma" useOpenSSHConfig="true" />
     </configs>
   </component>
