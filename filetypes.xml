@@ -33,6 +33,7 @@
       <mapping ext="wednesday20205" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="properties" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <mapping ext="cshtml" type="C#" />
