@@ -27,6 +27,7 @@
       <sshConfig authType="PASSWORD" host="10.9.0.131" id="608e5893-40bb-4af7-b220-86c2dff3d680" port="22" customName="mdl@10.9.0.131:22" nameFormat="CUSTOM" username="mdl" useOpenSSHConfig="true">
         <option name="customName" value="mdl@10.9.0.131:22" />
       </sshConfig>
+      <sshConfig host="ksma.ru" id="007afaa4-82fb-4f56-8edc-a136f22373b4" keyPath="\\wsl$\Ubuntu\home\cessel\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
