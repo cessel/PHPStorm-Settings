@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c833fb11-ae69-4d9b-b8f6-ffec5d0e0f81" name="[MSK] Сайт adilhanovlaw.ru" url="http://vh308.timeweb.ru">
+        <fileTransfer host="vh308.timeweb.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
