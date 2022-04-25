@@ -29,7 +29,7 @@
       </sshConfig>
       <sshConfig host="ksma.ru" id="007afaa4-82fb-4f56-8edc-a136f22373b4" keyPath="\\wsl$\Ubuntu\home\cessel\.ssh\id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" host="cesselhm.beget.tech" id="a78dae7a-65ce-48e6-88ee-056eec261f31" port="22" nameFormat="DESCRIPTIVE" username="cesselhm" useOpenSSHConfig="false" />
-      <sshConfig authType="PASSWORD" host="androidauthdev.sftp.wpengine.com" id="9a2d2a05-d401-45ae-b373-be32e00048a9" port="2222" nameFormat="DESCRIPTIVE" username="androidauthdev-ignatov" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="androidauthdev.sftp.wpengine.com" id="9a2d2a05-d401-45ae-b373-be32e00048a9" port="2222" nameFormat="DESCRIPTIVE" username="androidauthdev-ignatov" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
