@@ -19,6 +19,7 @@
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="PriceTriton" type="PLAIN_TEXT" />
       <mapping pattern="bigbluebutton" type="PLAIN_TEXT" />
+      <mapping pattern="git_key" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_old" type="PLAIN_TEXT" />
       <mapping pattern="__enquiredStyles" type="PLAIN_TEXT" />
       <mapping pattern=".ftpquota" type="PLAIN_TEXT" />
@@ -28,6 +29,7 @@
       <mapping ext="20210119" type="PLAIN_TEXT" />
       <mapping ext="20201007" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="20201006" type="PLAIN_TEXT" />
       <mapping ext="20201005" type="PLAIN_TEXT" />
