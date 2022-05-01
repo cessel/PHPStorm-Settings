@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="77f48ead-371a-4ccd-a654-8259e1594486" name="[KRD] Сайт attorneypartners.loc" url="">
+        <fileTransfer rootFolder="/home/a/adilha09/" accessType="SFTP" host="adilha09.beget.tech" port="22" sshConfigId="672081a7-af69-4513-aece-09daff785ce2" sshConfig="adilha09@adilha09.beget.tech:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="c833fb11-ae69-4d9b-b8f6-ffec5d0e0f81" name="[MSK] Сайт adilhanovlaw.ru" url="http://vh308.timeweb.ru">
         <fileTransfer host="vh308.timeweb.ru" port="21">
           <advancedOptions>
