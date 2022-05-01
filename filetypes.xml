@@ -1,9 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="AUTO_DETECTED" />
+      <mapping pattern="known_hosts" type="AUTO_DETECTED" />
+      <mapping pattern="id_rsa" type="AUTO_DETECTED" />
       <mapping pattern="syslog" type="AUTO_DETECTED" />
       <mapping pattern="ad000e7051bc6cc97a60d494067e61c446ef1774" type="AUTO_DETECTED" />
+      <mapping pattern="ssh_known_hosts" type="AUTO_DETECTED" />
       <mapping pattern="faillog" type="AUTO_DETECTED" />
       <mapping ext="cshtml" type="C#" />
       <mapping ext="bak" type="CSS" />
@@ -12,6 +16,7 @@
       <mapping ext="mo" type="Native" />
       <mapping pattern="pr" type="PLAIN_TEXT" />
       <mapping pattern="wordpress" type="PLAIN_TEXT" />
+      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
