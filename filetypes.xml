@@ -9,6 +9,8 @@
       <mapping pattern="ad000e7051bc6cc97a60d494067e61c446ef1774" type="AUTO_DETECTED" />
       <mapping pattern="ssh_known_hosts" type="AUTO_DETECTED" />
       <mapping pattern="faillog" type="AUTO_DETECTED" />
+      <mapping pattern="ssh_" type="AUTO_DETECTED" />
+      <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping ext="cshtml" type="C#" />
       <mapping ext="bak" type="CSS" />
       <mapping ext="postinst" type="Ini" />
