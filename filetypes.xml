@@ -14,7 +14,6 @@
       <mapping ext="cshtml" type="C#" />
       <mapping ext="bak" type="CSS" />
       <mapping ext="postinst" type="Ini" />
-      <mapping pattern="cron" type="Log" />
       <mapping ext="mo" type="Native" />
       <mapping pattern="pr" type="PLAIN_TEXT" />
       <mapping pattern="wordpress" type="PLAIN_TEXT" />
@@ -48,6 +47,7 @@
       <removed_mapping ext="properties" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <mapping ext="cshtml" type="C#" />
+      <mapping pattern="cron" type="Log" />
     </extensionMap>
   </component>
 </application>
