@@ -15,6 +15,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="6ca6edb5-cf4a-4d93-8153-8ef696c15b2a" name="Local or mounted folder" url="localhost">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
