@@ -16,6 +16,7 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="androidauthdev.sftp.wpengine.com" id="9a2d2a05-d401-45ae-b373-be32e00048a9" port="2222" nameFormat="DESCRIPTIVE" username="androidauthdev-ignatov" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" host="adilha09.beget.tech" id="672081a7-af69-4513-aece-09daff785ce2" port="22" nameFormat="DESCRIPTIVE" username="adilha09" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" host="185.151.196.161" id="04b37464-da9e-4a8d-a191-6ca2a3fdc25b" port="2222" nameFormat="DESCRIPTIVE" username="sukkotbi" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="online.spasskievorota.ru" id="8b86abca-599b-4587-861b-1997f7da30c8" port="22" nameFormat="DESCRIPTIVE" username="ignatov" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
