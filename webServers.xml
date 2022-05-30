@@ -15,6 +15,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="287b32b3-afac-46c3-a90c-90dd65d1371a" name="[FREEL] Сайт ПромСпецСтрой - pro-ss.ru" url="https://pro-ss.ru/">
+        <fileTransfer rootFolder="/home/virtwww/w_pro-ss-ru_f2809982/http" accessType="SFTP" host="ftp.pro-ss-ru.1gb.ru" port="2222" sshConfigId="e8e96def-d711-42ed-b68f-94cd0c5afb6a" sshConfig="w_pro-ss-ru_f2809982@ftp.pro-ss-ru.1gb.ru:2222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
