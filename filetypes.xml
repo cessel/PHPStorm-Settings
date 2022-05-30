@@ -37,6 +37,7 @@
       <mapping ext="20210119" type="PLAIN_TEXT" />
       <mapping ext="20201007" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="20201006" type="PLAIN_TEXT" />
